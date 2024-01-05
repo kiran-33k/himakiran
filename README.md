@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiran-33k
+- 👋 Hi, I’m @himakiran
 - 👀 I’m interested in front-end webdevelopment, prompit engineering and digitl marketing.
 - 🌱 I’m currently learning frontend web development and prompit engineerig.
 - 💞️ I’m looking to collaborate on frontend projects.
